@@ -1,0 +1,395 @@
+﻿ID_Transacao;Data_Transacao;Descricao;Valor;ID_Categoria;Forma_Pagamento;Detalhe_Pagamento;Nome_Categoria;Nome_Subcategoria;Tipo
+1;01/01/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+2;05/01/2023;Conta de luz;158;1;Débito automático;;Moradia;Contas;Despesa
+3;08/01/2023;Conta de água;89;1;Débito automático;;Moradia;Contas;Despesa
+4;10/01/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+5;12/01/2023;Gasto com gasolina;216;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+6;15/01/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+7;18/01/2023;Cinema com Amigos;450;8;Cartão de crédito;Nubank;Lazer;Cinema;Despesa
+8;25/01/2023;Venda de produtos artesanais;900;10;Dinheiro;;Renda Extra;Freelance;Renda
+9;31/01/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+10;01/02/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+11;03/02/2023;Supermercado mensal;640;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+12;05/02/2023;Conta de luz;165;1;Débito automático;;Moradia;Contas;Despesa
+13;05/02/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+14;08/02/2023;Conta de água;68;1;Débito automático;;Moradia;Contas;Despesa
+15;10/02/2023;Venda de roupas usadas;120;10;Dinheiro;;Renda Extra;Freelance;Renda
+16;10/02/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+17;12/02/2023;Gasto com gasolina;205;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+18;15/02/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+19;15/02/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+20;18/02/2023;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+21;20/02/2023;Doação para ONG;600;14;Pix;;Doações;ONG;Despesa
+22;20/02/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+23;25/02/2023;Compra de ações;1000;15;Transferência;;Investimentos;Ações;Renda
+24;28/02/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+25;01/03/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+26;03/03/2023;Supermercado mensal;650;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+27;05/03/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+28;05/03/2023;Conta de luz;182;1;Débito automático;;Moradia;Contas;Despesa
+29;08/03/2023;Conta de água;79;1;Débito automático;;Moradia;Contas;Despesa
+30;10/03/2023;Freelance design gráfico;480;10;Transferência;;Renda Extra;Freelance;Renda
+31;10/03/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+32;12/03/2023;Gasto com gasolina;228;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+33;15/03/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+34;15/03/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+35;18/03/2023;Cosméticos;1100;13;Cartão de crédito;Itaú;Beleza;Cabeleireiro;Despesa
+36;18/03/2023;Show de rock;400;8;Cartão de crédito;Itaú;Lazer;Eventos;Despesa
+37;20/03/2023;Doação para ONG;800;14;Pix;;Doações;ONG;Despesa
+38;20/03/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+39;25/03/2023;Compra de ações;1000;15;Transferência;;Investimentos;Ações;Renda
+40;26/03/2023;Compra de jogo PS5;350;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+41;31/03/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+42;01/04/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+43;03/04/2023;Supermercado mensal;670;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+44;05/04/2023;Conta de luz;160;1;Débito automático;;Moradia;Contas;Despesa
+45;05/04/2023;Farmácia;850;7;Cartão de crédito;Banco Inter;Saúde;Plano de saúde;Despesa
+46;08/04/2023;Conta de água;77;1;Débito automático;;Moradia;Contas;Despesa
+47;10/04/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+48;10/04/2023;Venda de produtos online;2700;10;Dinheiro;;Renda Extra;Freelance;Renda
+49;12/04/2023;Consulta veterinária;2200;11;Cartão de crédito;Banco do Brasil;Pets;Ração;Despesa
+50;12/04/2023;Gasto com gasolina;217;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+51;15/04/2023;Plano de celular;800;12;Débito automático;;Internet;Plano de celular;Despesa
+52;15/04/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+53;15/04/2023;Curso online - Análise de Dados;800;9;Cartão de crédito;Bradesco;Educação;Cursos Online;Despesa
+54;15/04/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+55;18/04/2023;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+56;20/04/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+57;20/04/2023;Ajuda para mãe;1500;14;Transferência;;Doações;Ajuda para mãe;Despesa
+58;25/04/2023;Dividendos recebidos;750;15;Transferência;;Investimentos;Ações;Renda
+59;30/04/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+60;01/05/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+61;03/05/2023;Supermercado mensal;690;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+62;05/05/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+63;05/05/2023;Conta de luz;170;1;Débito automático;;Moradia;Contas;Despesa
+64;08/05/2023;Conta de água;81;1;Débito automático;;Moradia;Contas;Despesa
+65;10/05/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+66;10/05/2023;Venda de móveis usados;3000;10;Dinheiro;;Renda Extra;Freelance;Renda
+67;12/05/2023;Gasto com gasolina;212;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+68;15/05/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+69;15/05/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+70;20/05/2023;Doação para ONG;700;14;Pix;;Doações;ONG;Despesa
+71;20/05/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+72;22/05/2023;Compra de jogo PS5;300;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+73;31/05/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+74;01/06/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+75;03/06/2023;Supermercado mensal;600;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+76;05/06/2023;Conta de luz;186;1;Débito automático;;Moradia;Contas;Despesa
+77;05/06/2023;Farmácia;900;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+78;08/06/2023;Conta de água;52;1;Débito automático;;Moradia;Contas;Despesa
+79;10/06/2023;Freelance ilustração;4200;10;Transferência;;Renda Extra;Freelance;Renda
+80;10/06/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+81;12/06/2023;Consulta veterinária;1800;11;Pix;;Pets;Ração;Despesa
+82;12/06/2023;Gasto com gasolina;227;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+83;15/06/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+84;15/06/2023;Plano de celular;800;12;Débito automático;;Internet;Plano de celular;Despesa
+85;15/06/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+86;18/06/2023;Cosméticos;950;13;Cartão de crédito;Nubank;Beleza;Cabeleireiro;Despesa
+87;20/06/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+88;23/06/2023;Viagem de fim de semana (Feriado);1500;8;Pix;;Lazer;Viagens;Despesa
+89;25/06/2023;Dividendos recebidos;900;15;Transferência;;Investimentos;Ações;Renda
+90;30/06/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+91;01/07/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+92;03/07/2023;Supermercado mensal;610;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+93;05/07/2023;Conta de luz;180;1;Débito automático;;Moradia;Contas;Despesa
+94;05/07/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+95;05/07/2023;Pagamento de Férias;8000;5;Transferência;;Salário;Salário Mensal;Receita
+96;06/07/2023;Cinema com Amigos;120;8;Cartão de crédito;Nubank;Lazer;Cinema;Despesa
+97;08/07/2023;Conta de água;73;1;Débito automático;;Moradia;Contas;Despesa
+98;10/07/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+99;10/07/2023;Venda de roupas usadas;1200;10;Dinheiro;;Renda Extra;Freelance;Renda
+100;12/07/2023;Gasto com gasolina;241;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+101;15/07/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+102;15/07/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+103;15/07/2023;Ingresso festival de música;500;8;Pix;;Lazer;Eventos;Despesa
+104;18/07/2023;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+105;20/07/2023;Doação para ONG;500;14;Pix;;Doações;ONG;Despesa
+106;20/07/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+107;22/07/2023;Bar com amigos;200;8;Pix;;Lazer;Eventos;Despesa
+108;25/07/2023;Compra de ações;1000;15;Transferência;;Investimentos;Ações;Renda
+109;29/07/2023;Compra de jogo PS5;350;8;Cartão de crédito;Banco do Brasil;Lazer;Jogos;Despesa
+110;31/07/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+111;01/08/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+112;03/08/2023;Supermercado mensal;620;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+113;05/08/2023;Conta de luz;171;1;Débito automático;;Moradia;Contas;Despesa
+114;05/08/2023;Farmácia;950;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+115;08/08/2023;Conta de água;80;1;Débito automático;;Moradia;Contas;Despesa
+116;10/08/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+117;10/08/2023;Venda de móveis usados;3000;10;Dinheiro;;Renda Extra;Freelance;Renda
+118;12/08/2023;Gasto com gasolina;248;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+119;12/08/2023;Consulta veterinária;2000;11;Pix;;Pets;Ração;Despesa
+120;15/08/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+121;15/08/2023;Plano de celular;800;12;Débito automático;;Internet;Plano de celular;Despesa
+122;15/08/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+123;20/08/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+124;20/08/2023;Ajuda para mãe;1700;14;Transferência;;Doações;Ajuda para mãe;Despesa
+125;25/08/2023;Dividendos recebidos;840;15;Transferência;;Investimentos;Ações;Renda
+126;26/08/2023;Bar com amigos;180;8;Cartão de crédito;Itaú;Lazer;Eventos;Despesa
+127;31/08/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+128;01/09/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+129;03/09/2023;Supermercado mensal;540;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+130;05/09/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+131;05/09/2023;Conta de luz;187;1;Débito automático;;Moradia;Contas;Despesa
+132;08/09/2023;Conta de água;81;1;Débito automático;;Moradia;Contas;Despesa
+133;10/09/2023;Freelance projeto web;5400;10;Transferência;;Renda Extra;Freelance;Renda
+134;10/09/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+135;12/09/2023;Gasto com gasolina;222;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+136;13/09/2023;Compra de jogo PS5;250;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+137;15/09/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+138;15/09/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+139;18/09/2023;Cosméticos;1050;13;Cartão de crédito;Itaú;Beleza;Cabeleireiro;Despesa
+140;20/09/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+141;20/09/2023;Doação para ONG;600;14;Pix;;Doações;ONG;Despesa
+142;25/09/2023;Compra de ações;1100;15;Transferência;;Investimentos;Ações;Renda
+143;30/09/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+144;01/10/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+145;03/10/2023;Supermercado mensal;490;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+146;05/10/2023;Conta de luz;162;1;Débito automático;;Moradia;Contas;Despesa
+147;05/10/2023;Farmácia;1000;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+148;08/10/2023;Conta de água;86;1;Débito automático;;Moradia;Contas;Despesa
+149;10/10/2023;Venda de móveis usados;3300;10;Dinheiro;;Renda Extra;Freelance;Renda
+150;10/10/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+151;12/10/2023;Consulta veterinária;2100;11;Pix;;Pets;Ração;Despesa
+152;12/10/2023;Gasto com gasolina;228;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+153;15/10/2023;Plano de celular;800;12;Débito automático;;Internet;Plano de celular;Despesa
+154;15/10/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+155;20/10/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+156;20/10/2023;Ajuda para mãe;1550;14;Transferência;;Doações;Ajuda para mãe;Despesa
+157;25/10/2023;Dividendos recebidos;870;15;Transferência;;Investimentos;Ações;Renda
+158;25/10/2023;Workshop de Oratória;450;9;Cartão de crédito;Bradesco;Educação;Cursos Online;Despesa
+159;31/10/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+160;01/11/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+161;03/11/2023;Supermercado mensal;580;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+162;05/11/2023;Conta de luz;163;1;Débito automático;;Moradia;Contas;Despesa
+163;05/11/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+164;08/11/2023;Conta de água;71;1;Débito automático;;Moradia;Contas;Despesa
+165;10/11/2023;Venda de roupas usadas;1320;10;Dinheiro;;Renda Extra;Freelance;Renda
+166;10/11/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+167;12/11/2023;Gasto com gasolina;221;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+168;15/11/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+169;15/11/2023;Internet residencial;1200;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+170;18/11/2023;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+171;20/11/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+172;20/11/2023;Doação para ONG;750;14;Pix;;Doações;ONG;Despesa
+173;30/11/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+174;01/12/2023;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+175;03/12/2023;Supermercado mensal;570;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+176;05/12/2023;Farmácia;1050;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+177;05/12/2023;Conta de luz;160;1;Débito automático;;Moradia;Contas;Despesa
+178;06/12/2023;Viagem de fim de semana;900;8;Cartão de crédito;Bradesco;Lazer;Viagens;Despesa
+179;08/12/2023;Conta de água;69;1;Débito automático;;Moradia;Contas;Despesa
+180;09/12/2023;Presente para irmão;180;8;Pix;;Lazer;Presentes;Despesa
+181;10/12/2023;Venda de móveis usados;3600;10;Dinheiro;;Renda Extra;Freelance;Renda
+182;10/12/2023;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+183;12/12/2023;Gasto com gasolina;244;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+184;12/12/2023;Consulta veterinária;2200;11;Pix;;Pets;Ração;Despesa
+185;15/12/2023;Plano de celular;800;12;Débito automático;;Internet;Plano de celular;Despesa
+186;15/12/2023;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+187;15/12/2023;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+188;20/12/2023;Décimo Terceiro Salário;6000;5;Transferência;;Salário;Salário Mensal;Receita
+189;20/12/2023;Ajuda para mãe;2000;14;Transferência;;Doações;Ajuda para mãe;Despesa
+190;20/12/2023;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+191;21/12/2023;Presente para mãe;250;8;Pix;;Lazer;Presentes;Despesa
+192;25/12/2023;Dividendos recebidos;930;15;Transferência;;Investimentos;Ações;Renda
+193;28/12/2023;Viagem curta (praia);850;8;Pix;;Lazer;Viagens;Despesa
+194;31/12/2023;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+195;01/01/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+196;03/01/2024;Supermercado mensal;700;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+197;05/01/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+198;05/01/2024;Conta de luz;185;1;Débito automático;;Moradia;Contas;Despesa
+199;08/01/2024;Conta de água;53;1;Débito automático;;Moradia;Contas;Despesa
+200;10/01/2024;Freelance ilustração;5700;10;Transferência;;Renda Extra;Freelance;Renda
+201;10/01/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+202;12/01/2024;Gasto com gasolina;250;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+203;15/01/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+204;15/01/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+205;18/01/2024;Cosméticos;1150;13;Cartão de crédito;Itaú;Beleza;Cabeleireiro;Despesa
+206;20/01/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+207;20/01/2024;Doação para ONG;800;14;Pix;;Doações;ONG;Despesa
+208;25/01/2024;Compra de ações;1200;15;Transferência;;Investimentos;Ações;Renda
+209;31/01/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+210;01/02/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+211;03/02/2024;Supermercado mensal;630;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+212;05/02/2024;Conta de luz;176;1;Débito automático;;Moradia;Contas;Despesa
+213;05/02/2024;Farmácia;1100;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+214;08/02/2024;Conta de água;53;1;Débito automático;;Moradia;Contas;Despesa
+215;10/02/2024;Venda de móveis usados;3720;10;Dinheiro;;Renda Extra;Freelance;Renda
+216;10/02/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+217;12/02/2024;Consulta veterinária;2300;11;Pix;;Pets;Ração;Despesa
+218;12/02/2024;Gasto com gasolina;202;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+219;15/02/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+220;15/02/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+221;15/02/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+222;20/02/2024;Ajuda para mãe;1600;14;Transferência;;Doações;Ajuda para mãe;Despesa
+223;20/02/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+224;25/02/2024;Dividendos recebidos;960;15;Transferência;;Investimentos;Ações;Renda
+225;29/02/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+226;01/03/2024;Compra de jogo PS5;350;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+227;01/03/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+228;03/03/2024;Supermercado mensal;532;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+229;05/03/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+230;05/03/2024;Pagamento de Férias;8000;5;Transferência;;Salário;Salário Mensal;Receita
+231;05/03/2024;Conta de luz;182;1;Débito automático;;Moradia;Contas;Despesa
+232;08/03/2024;Conta de água;90;1;Débito automático;;Moradia;Contas;Despesa
+233;10/03/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+234;10/03/2024;Venda de roupas usadas;1380;10;Dinheiro;;Renda Extra;Freelance;Renda
+235;12/03/2024;Gasto com gasolina;237;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+236;14/03/2024;Compra de jogo PS5;350;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+237;15/03/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+238;15/03/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+239;18/03/2024;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+240;20/03/2024;Doação para ONG;700;14;Pix;;Doações;ONG;Despesa
+241;20/03/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+242;31/03/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+243;01/04/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+244;03/04/2024;Supermercado mensal;435;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+245;05/04/2024;Conta de luz;170;1;Débito automático;;Moradia;Contas;Despesa
+246;05/04/2024;Farmácia;1150;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+247;08/04/2024;Conta de água;85;1;Débito automático;;Moradia;Contas;Despesa
+248;10/04/2024;Venda de móveis usados;3900;10;Dinheiro;;Renda Extra;Freelance;Renda
+249;10/04/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+250;12/04/2024;Consulta veterinária;2400;11;Pix;;Pets;Ração;Despesa
+251;12/04/2024;Gasto com gasolina;213;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+252;15/04/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+253;15/04/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+254;15/04/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+255;20/04/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+256;20/04/2024;Ajuda para mãe;1200;14;Transferência;;Doações;Ajuda para mãe;Despesa
+257;25/04/2024;Dividendos recebidos;990;15;Transferência;;Investimentos;Ações;Renda
+258;30/04/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+259;01/05/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+260;03/05/2024;Supermercado mensal;600;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+261;05/05/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+262;05/05/2024;Conta de luz;171;1;Débito automático;;Moradia;Contas;Despesa
+263;08/05/2024;Conta de água;58;1;Débito automático;;Moradia;Contas;Despesa
+264;10/05/2024;Freelance design gráfico;6000;10;Transferência;;Renda Extra;Freelance;Renda
+265;10/05/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+266;11/05/2024;Ingresso festival de música;600;8;Cartão de crédito;Itaú;Lazer;Eventos;Despesa
+267;12/05/2024;Compra de jogo PS5;250;8;Cartão de crédito;Nubank;Lazer;Jogos;Despesa
+268;12/05/2024;Gasto com gasolina;217;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+269;15/05/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+270;15/05/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+271;18/05/2024;Cosméticos;1200;13;Cartão de crédito;Itaú;Beleza;Cabeleireiro;Despesa
+272;20/05/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+273;20/05/2024;Doação para ONG;500;14;Pix;;Doações;ONG;Despesa
+274;25/05/2024;Compra de ações;1250;15;Transferência;;Investimentos;Ações;Renda
+275;31/05/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+276;01/06/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+277;03/06/2024;Supermercado mensal;580;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+278;05/06/2024;Conta de luz;168;1;Débito automático;;Moradia;Contas;Despesa
+279;05/06/2024;Farmácia;1200;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+280;08/06/2024;Conta de água;60;1;Débito automático;;Moradia;Contas;Despesa
+281;10/06/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+282;10/06/2024;Venda de móveis usados;4020;10;Dinheiro;;Renda Extra;Freelance;Renda
+283;12/06/2024;Consulta veterinária;2500;11;Pix;;Pets;Ração;Despesa
+284;12/06/2024;Gasto com gasolina;232;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+285;15/06/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+286;15/06/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+287;15/06/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+288;20/06/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+289;20/06/2024;Ajuda para mãe;1700;14;Transferência;;Doações;Ajuda para mãe;Despesa
+290;25/06/2024;Dividendos recebidos;1020;15;Transferência;;Investimentos;Ações;Renda
+291;30/06/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+292;01/07/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+293;03/07/2024;Supermercado mensal;390;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+294;05/07/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+295;05/07/2024;Conta de luz;179;1;Débito automático;;Moradia;Contas;Despesa
+296;06/07/2024;Cinema com Amigos;160;8;Cartão de crédito;Nubank;Lazer;Cinema;Despesa
+297;08/07/2024;Conta de água;76;1;Débito automático;;Moradia;Contas;Despesa
+298;10/07/2024;Venda de roupas usadas;1440;10;Dinheiro;;Renda Extra;Freelance;Renda
+299;10/07/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+300;12/07/2024;Gasto com gasolina;200;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+301;15/07/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+302;15/07/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+303;15/07/2024;Ingresso festival de música;800;8;Pix;;Lazer;Eventos;Despesa
+304;18/07/2024;Curso online - Finanças Pessoais;600;9;Cartão de crédito;Bradesco;Educação;Cursos Online;Despesa
+305;18/07/2024;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+306;20/07/2024;Doação para ONG;670;14;Pix;;Doações;ONG;Despesa
+307;20/07/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+308;22/07/2024;Bar com amigos;150;8;Pix;;Lazer;Eventos;Despesa
+309;29/07/2024;Compra de jogo PS5;250;8;Cartão de crédito;Banco do Brasil;Lazer;Jogos;Despesa
+310;31/07/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+311;01/08/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+312;03/08/2024;Supermercado mensal;340;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+313;05/08/2024;Farmácia;1250;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+314;05/08/2024;Conta de luz;177;1;Débito automático;;Moradia;Contas;Despesa
+315;08/08/2024;Conta de água;58;1;Débito automático;;Moradia;Contas;Despesa
+316;10/08/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+317;10/08/2024;Venda de móveis usados;4200;10;Dinheiro;;Renda Extra;Freelance;Renda
+318;12/08/2024;Consulta veterinária;2600;11;Pix;;Pets;Ração;Despesa
+319;12/08/2024;Gasto com gasolina;245;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+320;15/08/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+321;15/08/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+322;15/08/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+323;20/08/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+324;20/08/2024;Ajuda para mãe;1450;14;Transferência;;Doações;Ajuda para mãe;Despesa
+325;25/08/2024;Dividendos recebidos;105;15;Transferência;;Investimentos;Ações;Renda
+326;31/08/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+327;01/09/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+328;03/09/2024;Supermercado mensal;397;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+329;05/09/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+330;05/09/2024;Conta de luz;156;1;Débito automático;;Moradia;Contas;Despesa
+331;08/09/2024;Conta de água;60;1;Débito automático;;Moradia;Contas;Despesa
+332;10/09/2024;Freelance projeto web;6300;10;Transferência;;Renda Extra;Freelance;Renda
+333;10/09/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+334;12/09/2024;Gasto com gasolina;222;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+335;14/09/2024;Jantar especial;220;8;Cartão de crédito;Itaú;Lazer;Eventos;Despesa
+336;15/09/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+337;15/09/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+338;18/09/2024;Cosméticos;1300;13;Cartão de crédito;Itaú;Beleza;Cabeleireiro;Despesa
+339;20/09/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+340;20/09/2024;Doação para ONG;800;14;Pix;;Doações;ONG;Despesa
+341;25/09/2024;Compra de ações;1300;15;Transferência;;Investimentos;Ações;Renda
+342;30/09/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+343;01/10/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+344;03/10/2024;Supermercado mensal;600;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+345;05/10/2024;Farmácia;1300;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+346;05/10/2024;Conta de luz;171;1;Débito automático;;Moradia;Contas;Despesa
+347;08/10/2024;Conta de água;67;1;Débito automático;;Moradia;Contas;Despesa
+348;10/10/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+349;10/10/2024;Venda de móveis usados;4320;10;Dinheiro;;Renda Extra;Freelance;Renda
+350;12/10/2024;Gasto com gasolina;226;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+351;12/10/2024;Consulta veterinária;2700;11;Pix;;Pets;Ração;Despesa
+352;15/10/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+353;15/10/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+354;15/10/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+355;20/10/2024;Ajuda para mãe;2600;14;Transferência;;Doações;Ajuda para mãe;Despesa
+356;20/10/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+357;25/10/2024;Dividendos recebidos;1080;15;Transferência;;Investimentos;Ações;Renda
+358;31/10/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+359;01/11/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+360;02/11/2024;Viagem curta (praia);1200;8;Pix;;Lazer;Viagens;Despesa
+361;03/11/2024;Supermercado mensal;645;3;Cartão de crédito;Nubank;Alimentação;Supermercado;Despesa
+362;05/11/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+363;05/11/2024;Conta de luz;189;1;Débito automático;;Moradia;Contas;Despesa
+364;08/11/2024;Conta de água;68;1;Débito automático;;Moradia;Contas;Despesa
+365;10/11/2024;Venda de roupas usadas;1500;10;Dinheiro;;Renda Extra;Freelance;Renda
+366;10/11/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+367;12/11/2024;Gasto com gasolina;234;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+368;15/11/2024;Internet residencial;1300;12;Cartão de crédito;Banco do Brasil;Internet;Plano de celular;Despesa
+369;15/11/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+370;18/11/2024;Corte de cabelo;60;13;Dinheiro;;Beleza;Cabeleireiro;Despesa
+371;20/11/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+372;20/11/2024;Doação para ONG;700;14;Pix;;Doações;ONG;Despesa
+373;30/11/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa
+374;01/12/2024;Aluguel apartamento;1800;1;Pix;;Moradia;Aluguel;Despesa
+375;03/12/2024;Supermercado mensal;490;3;Cartão de crédito;Bradesco;Alimentação;Supermercado;Despesa
+376;05/12/2024;Conta de luz;189;1;Débito automático;;Moradia;Contas;Despesa
+377;05/12/2024;Farmácia;1350;7;Cartão de crédito;Itaú;Saúde;Plano de saúde;Despesa
+378;06/12/2024;Viagem de fim de semana;750;8;Cartão de crédito;Bradesco;Lazer;Viagens;Despesa
+379;08/12/2024;Conta de água;87;1;Débito automático;;Moradia;Contas;Despesa
+380;09/12/2024;Presente para irmão;200;8;Pix;;Lazer;Presentes;Despesa
+381;10/12/2024;Salário mensal;6000;5;Transferência;;Salário;Salário Mensal;Renda
+382;10/12/2024;Venda de móveis usados;4500;10;Dinheiro;;Renda Extra;Freelance;Renda
+383;12/12/2024;Gasto com gasolina;202;6;Cartão de crédito;Bradesco;Transporte;Combustível;Despesa
+384;12/12/2024;Consulta veterinária;2800;11;Pix;;Pets;Ração;Despesa
+385;15/12/2024;Plano de celular;850;12;Débito automático;;Internet;Plano de celular;Despesa
+386;15/12/2024;Ração para cachorro;200;11;Cartão de crédito;Nubank;Pets;Ração;Despesa
+387;15/12/2024;Plano de saúde;250;7;Débito automático;;Saúde;Plano de saúde;Despesa
+388;20/12/2024;Décimo Terceiro Salário;6000;5;Transferência;;Salário;Salário Mensal;Receita
+389;20/12/2024;Ajuda para mãe;2200;14;Transferência;;Doações;Ajuda para mãe;Despesa
+390;20/12/2024;Curso de Inglês;350;9;Débito automático;;Educação;Cursos Online;Despesa
+391;21/12/2024;Presente para mãe;330;8;Pix;;Lazer;Presentes;Despesa
+392;25/12/2024;Dividendos recebidos;1110;15;Transferência;;Investimentos;Ações;Renda
+393;28/12/2024;Viagem curta (praia);800;8;Pix;;Lazer;Viagens;Despesa
+394;30/12/2024;Assinatura de Streaming (Combo);85;8;Débito automático;;Lazer;Streaming;Despesa

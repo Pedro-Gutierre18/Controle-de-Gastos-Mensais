@@ -1,0 +1,271 @@
+ID_Transacao,Data_Transacao,Descricao,Valor,ID_Categoria,Forma_Pagamento,Detalhe_Pagamento
+1,2023-01-01,Aluguel apartamento,1800.00,1,Pix,
+2,2023-01-03,Conta de luz,230.45,1,Débito automático,
+3,2023-01-05,Supermercado semanal,520.90,3,Cartão de crédito,Banco do Brasil
+4,2023-01-07,Jantar com amigos,150.00,4,Cartão de crédito,Nubank
+5,2023-01-10,Salário mensal,4500.00,5,Transferência,
+6,2023-01-12,Combustível,200.00,6,Dinheiro,
+7,2023-01-15,Plano de saúde,350.00,7,Débito automático,
+8,2023-01-18,Cinema,45.00,8,Cartão de crédito,Nubank
+9,2023-01-21,Curso de inglês online,250.00,9,Cartão de crédito,Banco Inter
+10,2023-01-25,Venda de produtos artesanais,150.00,10,Dinheiro,
+11,2023-02-01,Aluguel apartamento,1800.00,1,Pix,
+12,2023-02-03,Supermercado mensal,640.00,3,Cartão de crédito,Nubank
+13,2023-02-05,Plano de saúde,350.00,7,Débito automático,
+14,2023-02-07,Curso de fotografia,300.00,9,Pix,
+15,2023-02-10,Venda de roupas usadas,200.00,10,Dinheiro,
+16,2023-02-12,Ração para cachorro,90.00,11,Cartão de crédito,Nubank
+17,2023-02-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+18,2023-02-18,Corte de cabelo,60.00,13,Dinheiro,
+19,2023-02-20,Doação para ONG,100.00,14,Pix,
+20,2023-02-25,Compra de ações,1000.00,15,Transferência,
+21,2023-03-01,Aluguel apartamento,1800.00,1,Pix,
+22,2023-03-03,Supermercado mensal,650.00,3,Cartão de crédito,Nubank
+23,2023-03-05,Plano de saúde,350.00,7,Débito automático,
+24,2023-03-07,Curso de inglês,250.00,9,Cartão de crédito,Banco Inter
+25,2023-03-10,Freelance design gráfico,800.00,10,Transferência,
+26,2023-03-12,Ração para cachorro,90.00,11,Cartão de crédito,Nubank
+27,2023-03-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+28,2023-03-18,Cosméticos,110.00,13,Cartão de crédito,Itaú
+29,2023-03-20,Doação para ONG,100.00,14,Pix,
+30,2023-03-25,Compra de ações,1000.00,15,Transferência,
+31,2023-04-01,Aluguel apartamento,1800.00,1,Pix,
+32,2023-04-03,Supermercado mensal,670.00,3,Cartão de crédito,Bradesco
+33,2023-04-05,Farmácia,85.00,7,Cartão de crédito,Banco Inter
+34,2023-04-07,Curso de fotografia,300.00,9,Pix,
+35,2023-04-10,Venda de produtos online,450.00,10,Dinheiro,
+36,2023-04-12,Consulta veterinária,220.00,11,Cartão de crédito,Banco do Brasil
+37,2023-04-15,Plano de celular,80.00,12,Débito automático,
+38,2023-04-18,Corte de cabelo,60.00,13,Dinheiro,
+39,2023-04-20,Ajuda para mãe,300.00,14,Transferência,
+40,2023-04-25,Dividendos recebidos,250.00,15,Transferência,
+41,2023-05-01,Aluguel apartamento,1800.00,1,Pix,
+42,2023-05-03,Supermercado mensal,690.00,3,Cartão de crédito,Nubank
+43,2023-05-05,Plano de saúde,350.00,7,Débito automático,
+44,2023-05-07,Curso de culinária,280.00,9,Cartão de crédito,Nubank
+45,2023-05-10,Venda de móveis usados,500.00,10,Dinheiro,
+46,2023-05-12,Ração para gato,85.00,11,Cartão de crédito,Nubank
+47,2023-05-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+48,2023-05-18,Maquiagem,110.00,13,Cartão de crédito,Itaú
+49,2023-05-20,Doação para ONG,100.00,14,Pix,
+50,2023-05-25,Compra de FIIs,800.00,15,Transferência,
+51,2023-06-01,Aluguel apartamento,1800.00,1,Pix,
+52,2023-06-03,Supermercado mensal,710.00,3,Cartão de crédito,Bradesco
+53,2023-06-05,Farmácia,90.00,7,Cartão de crédito,Itaú
+54,2023-06-07,Curso de inglês,250.00,9,Cartão de crédito,Banco Inter
+55,2023-06-10,Freelance ilustração,700.00,10,Transferência,
+56,2023-06-12,Consulta veterinária,180.00,11,Pix,
+57,2023-06-15,Plano de celular,80.00,12,Débito automático,
+58,2023-06-18,Cosméticos,95.00,13,Cartão de crédito,Nubank
+59,2023-06-20,Ajuda para irmão,250.00,14,Transferência,
+60,2023-06-25,Dividendos recebidos,300.00,15,Transferência,
+61,2023-07-01,Aluguel apartamento,1800.00,1,Pix,
+62,2023-07-03,Supermercado mensal,730.00,3,Cartão de crédito,Nubank
+63,2023-07-05,Plano de saúde,350.00,7,Débito automático,
+64,2023-07-07,Curso de fotografia,300.00,9,Pix,
+65,2023-07-10,Venda de roupas usadas,200.00,10,Dinheiro,
+66,2023-07-12,Ração para cachorro,90.00,11,Cartão de crédito,Nubank
+67,2023-07-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+68,2023-07-18,Corte de cabelo,60.00,13,Dinheiro,
+69,2023-07-20,Doação para ONG,100.00,14,Pix,
+70,2023-07-25,Compra de ações,1000.00,15,Transferência,
+71,2023-08-01,Aluguel apartamento,1800.00,1,Pix,
+72,2023-08-03,Supermercado mensal,750.00,3,Cartão de crédito,Bradesco
+73,2023-08-05,Farmácia,95.00,7,Cartão de crédito,Itaú
+74,2023-08-07,Curso de culinária,280.00,9,Cartão de crédito,Nubank
+75,2023-08-10,Venda de móveis usados,500.00,10,Dinheiro,
+76,2023-08-12,Consulta veterinária,200.00,11,Pix,
+77,2023-08-15,Plano de celular,80.00,12,Débito automático,
+78,2023-08-18,Maquiagem,115.00,13,Cartão de crédito,Itaú
+79,2023-08-20,Ajuda para mãe,300.00,14,Transferência,
+80,2023-08-25,Dividendos recebidos,280.00,15,Transferência,
+81,2023-09-01,Aluguel apartamento,1800.00,1,Pix,
+82,2023-09-03,Supermercado mensal,760.00,3,Cartão de crédito,Nubank
+83,2023-09-05,Plano de saúde,350.00,7,Débito automático,
+84,2023-09-07,Curso de inglês,250.00,9,Cartão de crédito,Banco Inter
+85,2023-09-10,Freelance projeto web,900.00,10,Transferência,
+86,2023-09-12,Ração para cachorro,95.00,11,Cartão de crédito,Nubank
+87,2023-09-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+88,2023-09-18,Cosméticos,105.00,13,Cartão de crédito,Itaú
+89,2023-09-20,Doação para ONG,100.00,14,Pix,
+90,2023-09-25,Compra de ações,1100.00,15,Transferência,
+91,2023-10-01,Aluguel apartamento,1800.00,1,Pix,
+92,2023-10-03,Supermercado mensal,780.00,3,Cartão de crédito,Bradesco
+93,2023-10-05,Farmácia,100.00,7,Cartão de crédito,Itaú
+94,2023-10-07,Curso de culinária,280.00,9,Cartão de crédito,Nubank
+95,2023-10-10,Venda de móveis usados,550.00,10,Dinheiro,
+96,2023-10-12,Consulta veterinária,210.00,11,Pix,
+97,2023-10-15,Plano de celular,80.00,12,Débito automático,
+98,2023-10-18,Maquiagem,120.00,13,Cartão de crédito,Itaú
+99,2023-10-20,Ajuda para mãe,300.00,14,Transferência,
+100,2023-10-25,Dividendos recebidos,290.00,15,Transferência,
+101,2023-11-01,Aluguel apartamento,1800.00,1,Pix,
+102,2023-11-03,Supermercado mensal,790.00,3,Cartão de crédito,Nubank
+103,2023-11-05,Plano de saúde,350.00,7,Débito automático,
+104,2023-11-07,Curso de fotografia,300.00,9,Pix,
+105,2023-11-10,Venda de roupas usadas,220.00,10,Dinheiro,
+106,2023-11-12,Ração para gato,90.00,11,Cartão de crédito,Nubank
+107,2023-11-15,Internet residencial,120.00,12,Cartão de crédito,Banco do Brasil
+108,2023-11-18,Corte de cabelo,65.00,13,Dinheiro,
+109,2023-11-20,Doação para ONG,100.00,14,Pix,
+110,2023-11-25,Compra de FIIs,850.00,15,Transferência,
+111,2023-12-01,Aluguel apartamento,1800.00,1,Pix,
+112,2023-12-03,Supermercado mensal,800.00,3,Cartão de crédito,Bradesco
+113,2023-12-05,Farmácia,105.00,7,Cartão de crédito,Itaú
+114,2023-12-07,Curso de culinária,280.00,9,Cartão de crédito,Nubank
+115,2023-12-10,Venda de móveis usados,600.00,10,Dinheiro,
+116,2023-12-12,Consulta veterinária,220.00,11,Pix,
+117,2023-12-15,Plano de celular,80.00,12,Débito automático,
+118,2023-12-18,Maquiagem,125.00,13,Cartão de crédito,Itaú
+119,2023-12-20,Ajuda para mãe,300.00,14,Transferência,
+120,2023-12-25,Dividendos recebidos,310.00,15,Transferência,
+121,2024-01-01,Aluguel apartamento,1850.00,1,Pix,
+122,2024-01-03,Supermercado mensal,820.00,3,Cartão de crédito,Nubank
+123,2024-01-05,Plano de saúde,360.00,7,Débito automático,
+124,2024-01-07,Curso de inglês,260.00,9,Cartão de crédito,Banco Inter
+125,2024-01-10,Freelance ilustração,950.00,10,Transferência,
+126,2024-01-12,Ração para cachorro,100.00,11,Cartão de crédito,Nubank
+127,2024-01-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+128,2024-01-18,Cosméticos,115.00,13,Cartão de crédito,Itaú
+129,2024-01-20,Doação para ONG,110.00,14,Pix,
+130,2024-01-25,Compra de ações,1200.00,15,Transferência,
+131,2024-02-01,Aluguel apartamento,1850.00,1,Pix,
+132,2024-02-03,Supermercado mensal,830.00,3,Cartão de crédito,Bradesco
+133,2024-02-05,Farmácia,110.00,7,Cartão de crédito,Itaú
+134,2024-02-07,Curso de culinária,290.00,9,Cartão de crédito,Nubank
+135,2024-02-10,Venda de móveis usados,620.00,10,Dinheiro,
+136,2024-02-12,Consulta veterinária,230.00,11,Pix,
+137,2024-02-15,Plano de celular,85.00,12,Débito automático,
+138,2024-02-18,Maquiagem,130.00,13,Cartão de crédito,Itaú
+139,2024-02-20,Ajuda para mãe,310.00,14,Transferência,
+140,2024-02-25,Dividendos recebidos,320.00,15,Transferência,
+141,2024-03-01,Aluguel apartamento,1850.00,1,Pix,
+142,2024-03-03,Supermercado mensal,840.00,3,Cartão de crédito,Nubank
+143,2024-03-05,Plano de saúde,360.00,7,Débito automático,
+144,2024-03-07,Curso de fotografia,310.00,9,Pix,
+145,2024-03-10,Venda de roupas usadas,230.00,10,Dinheiro,
+146,2024-03-12,Ração para gato,95.00,11,Cartão de crédito,Nubank
+147,2024-03-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+148,2024-03-18,Corte de cabelo,70.00,13,Dinheiro,
+149,2024-03-20,Doação para ONG,110.00,14,Pix,
+150,2024-03-25,Compra de FIIs,900.00,15,Transferência,
+151,2024-04-01,Aluguel apartamento,1850.00,1,Pix,
+152,2024-04-03,Supermercado mensal,850.00,3,Cartão de crédito,Bradesco
+153,2024-04-05,Farmácia,115.00,7,Cartão de crédito,Itaú
+154,2024-04-07,Curso de culinária,290.00,9,Cartão de crédito,Nubank
+155,2024-04-10,Venda de móveis usados,650.00,10,Dinheiro,
+156,2024-04-12,Consulta veterinária,240.00,11,Pix,
+157,2024-04-15,Plano de celular,85.00,12,Débito automático,
+158,2024-04-18,Maquiagem,135.00,13,Cartão de crédito,Itaú
+159,2024-04-20,Ajuda para mãe,310.00,14,Transferência,
+160,2024-04-25,Dividendos recebidos,330.00,15,Transferência,
+161,2024-05-01,Aluguel apartamento,1850.00,1,Pix,
+162,2024-05-03,Supermercado mensal,860.00,3,Cartão de crédito,Nubank
+163,2024-05-05,Plano de saúde,360.00,7,Débito automático,
+164,2024-05-07,Curso de inglês,270.00,9,Cartão de crédito,Banco Inter
+165,2024-05-10,Freelance design gráfico,1000.00,10,Transferência,
+166,2024-05-12,Ração para cachorro,105.00,11,Cartão de crédito,Nubank
+167,2024-05-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+168,2024-05-18,Cosméticos,120.00,13,Cartão de crédito,Itaú
+169,2024-05-20,Doação para ONG,110.00,14,Pix,
+170,2024-05-25,Compra de ações,1250.00,15,Transferência,
+171,2024-06-01,Aluguel apartamento,1850.00,1,Pix,
+172,2024-06-03,Supermercado mensal,870.00,3,Cartão de crédito,Bradesco
+173,2024-06-05,Farmácia,120.00,7,Cartão de crédito,Itaú
+174,2024-06-07,Curso de culinária,300.00,9,Cartão de crédito,Nubank
+175,2024-06-10,Venda de móveis usados,670.00,10,Dinheiro,
+176,2024-06-12,Consulta veterinária,250.00,11,Pix,
+177,2024-06-15,Plano de celular,85.00,12,Débito automático,
+178,2024-06-18,Maquiagem,140.00,13,Cartão de crédito,Itaú
+179,2024-06-20,Ajuda para mãe,320.00,14,Transferência,
+180,2024-06-25,Dividendos recebidos,340.00,15,Transferência,
+181,2024-07-01,Aluguel apartamento,1850.00,1,Pix,
+182,2024-07-03,Supermercado mensal,880.00,3,Cartão de crédito,Nubank
+183,2024-07-05,Plano de saúde,360.00,7,Débito automático,
+184,2024-07-07,Curso de fotografia,320.00,9,Pix,
+185,2024-07-10,Venda de roupas usadas,240.00,10,Dinheiro,
+186,2024-07-12,Ração para gato,100.00,11,Cartão de crédito,Nubank
+187,2024-07-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+188,2024-07-18,Corte de cabelo,75.00,13,Dinheiro,
+189,2024-07-20,Doação para ONG,110.00,14,Pix,
+190,2024-07-25,Compra de FIIs,950.00,15,Transferência,
+191,2024-08-01,Aluguel apartamento,1850.00,1,Pix,
+192,2024-08-03,Supermercado mensal,890.00,3,Cartão de crédito,Bradesco
+193,2024-08-05,Farmácia,125.00,7,Cartão de crédito,Itaú
+194,2024-08-07,Curso de culinária,310.00,9,Cartão de crédito,Nubank
+195,2024-08-10,Venda de móveis usados,700.00,10,Dinheiro,
+196,2024-08-12,Consulta veterinária,260.00,11,Pix,
+197,2024-08-15,Plano de celular,85.00,12,Débito automático,
+198,2024-08-18,Maquiagem,145.00,13,Cartão de crédito,Itaú
+199,2024-08-20,Ajuda para mãe,320.00,14,Transferência,
+200,2024-08-25,Dividendos recebidos,350.00,15,Transferência,
+201,2025-01-01,Aluguel apartamento,1850.00,1,Pix,
+202,2025-01-03,Supermercado mensal,900.00,3,Cartão de crédito,Nubank
+203,2025-01-05,Plano de saúde,360.00,7,Débito automático,
+204,2025-01-07,Curso de inglês,280.00,9,Cartão de crédito,Banco Inter
+205,2025-01-10,Freelance ilustração,1050.00,10,Transferência,
+206,2025-01-12,Ração para cachorro,110.00,11,Cartão de crédito,Nubank
+207,2025-01-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+208,2025-01-18,Cosméticos,130.00,13,Cartão de crédito,Itaú
+209,2025-01-20,Doação para ONG,120.00,14,Pix,
+210,2025-01-25,Compra de ações,1300.00,15,Transferência,
+211,2025-02-01,Aluguel apartamento,1850.00,1,Pix,
+212,2025-02-03,Supermercado mensal,910.00,3,Cartão de crédito,Bradesco
+213,2025-02-05,Farmácia,130.00,7,Cartão de crédito,Itaú
+214,2025-02-07,Curso de culinária,320.00,9,Cartão de crédito,Nubank
+215,2025-02-10,Venda de móveis usados,720.00,10,Dinheiro,
+216,2025-02-12,Consulta veterinária,270.00,11,Pix,
+217,2025-02-15,Plano de celular,85.00,12,Débito automático,
+218,2025-02-18,Maquiagem,150.00,13,Cartão de crédito,Itaú
+219,2025-02-20,Ajuda para mãe,330.00,14,Transferência,
+220,2025-02-25,Dividendos recebidos,360.00,15,Transferência,
+221,2025-03-01,Aluguel apartamento,1850.00,1,Pix,
+222,2025-03-03,Supermercado mensal,920.00,3,Cartão de crédito,Nubank
+223,2025-03-05,Plano de saúde,360.00,7,Débito automático,
+224,2025-03-07,Curso de fotografia,330.00,9,Pix,
+225,2025-03-10,Venda de roupas usadas,250.00,10,Dinheiro,
+226,2025-03-12,Ração para gato,105.00,11,Cartão de crédito,Nubank
+227,2025-03-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+228,2025-03-18,Corte de cabelo,80.00,13,Dinheiro,
+229,2025-03-20,Doação para ONG,120.00,14,Pix,
+230,2025-03-25,Compra de FIIs,1000.00,15,Transferência,
+201,2024-09-01,Aluguel apartamento,1850.00,1,Pix,
+202,2024-09-03,Supermercado mensal,900.00,3,Cartão de crédito,Nubank
+203,2024-09-05,Plano de saúde,360.00,7,Débito automático,
+204,2024-09-07,Curso de inglês,280.00,9,Cartão de crédito,Banco Inter
+205,2024-09-10,Freelance projeto web,1050.00,10,Transferência,
+206,2024-09-12,Ração para cachorro,110.00,11,Cartão de crédito,Nubank
+207,2024-09-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+208,2024-09-18,Cosméticos,130.00,13,Cartão de crédito,Itaú
+209,2024-09-20,Doação para ONG,120.00,14,Pix,
+210,2024-09-25,Compra de ações,1300.00,15,Transferência,
+211,2024-10-01,Aluguel apartamento,1850.00,1,Pix,
+212,2024-10-03,Supermercado mensal,910.00,3,Cartão de crédito,Bradesco
+213,2024-10-05,Farmácia,130.00,7,Cartão de crédito,Itaú
+214,2024-10-07,Curso de culinária,320.00,9,Cartão de crédito,Nubank
+215,2024-10-10,Venda de móveis usados,720.00,10,Dinheiro,
+216,2024-10-12,Consulta veterinária,270.00,11,Pix,
+217,2024-10-15,Plano de celular,85.00,12,Débito automático,
+218,2024-10-18,Maquiagem,150.00,13,Cartão de crédito,Itaú
+219,2024-10-20,Ajuda para mãe,330.00,14,Transferência,
+220,2024-10-25,Dividendos recebidos,360.00,15,Transferência,
+221,2024-11-01,Aluguel apartamento,1850.00,1,Pix,
+222,2024-11-03,Supermercado mensal,920.00,3,Cartão de crédito,Nubank
+223,2024-11-05,Plano de saúde,360.00,7,Débito automático,
+224,2024-11-07,Curso de fotografia,330.00,9,Pix,
+225,2024-11-10,Venda de roupas usadas,250.00,10,Dinheiro,
+226,2024-11-12,Ração para gato,105.00,11,Cartão de crédito,Nubank
+227,2024-11-15,Internet residencial,130.00,12,Cartão de crédito,Banco do Brasil
+228,2024-11-18,Corte de cabelo,80.00,13,Dinheiro,
+229,2024-11-20,Doação para ONG,120.00,14,Pix,
+230,2024-11-25,Compra de FIIs,1000.00,15,Transferência,
+231,2024-12-01,Aluguel apartamento,1850.00,1,Pix,
+232,2024-12-03,Supermercado mensal,930.00,3,Cartão de crédito,Bradesco
+233,2024-12-05,Farmácia,135.00,7,Cartão de crédito,Itaú
+234,2024-12-07,Curso de culinária,340.00,9,Cartão de crédito,Nubank
+235,2024-12-10,Venda de móveis usados,750.00,10,Dinheiro,
+236,2024-12-12,Consulta veterinária,280.00,11,Pix,
+237,2024-12-15,Plano de celular,85.00,12,Débito automático,
+238,2024-12-18,Maquiagem,155.00,13,Cartão de crédito,Itaú
+239,2024-12-20,Ajuda para mãe,340.00,14,Transferência,
+240,2024-12-25,Dividendos recebidos,370.00,15,Transferência,

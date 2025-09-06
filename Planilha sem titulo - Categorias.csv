@@ -1,0 +1,26 @@
+ID_Categorias,Nome_Categoria,Nome_Subcategoria,Tipo
+1,Moradia,Aluguel,Despesa
+2,Moradia,Eletricidade,Despesa
+3,Alimentação,Supermercado,Despesa
+4,Alimentação,Restaurante,Despesa
+5,Salário,Salário Mensal,Receita
+6,Transporte,Combustível,Despesa
+6,Transporte,Manutenção do carro,Despesa
+7,Saúde,Plano de saúde,Despesa
+7,Saúde,Farmácia,Despesa
+8,Lazer,Cinema,Despesa
+8,Lazer,Viagem,Despesa
+9,Educação,Cursos Online,Despesa
+9,Educação,Livros,Despesa
+10,Renda Extra,Freelance,Renda
+10,Renda Extra,Venda de produtos,Renda
+11,Pets,Ração,Despesa
+11,Pets,Veterinário,Despesa
+12,Internet,Plano de celular,Despesa
+12,Internet,Internet residencial,Despesa
+13,Beleza,Cabeleireiro,Despesa
+13,Beleza,Cosméticos,Despesa
+14,Doações,ONG,Despesa
+14,Doações,Ajuda a familiares,Despesa
+15,Investimentos,Ações,Renda
+15,Investimentos,Fundos imobiliários,Renda
